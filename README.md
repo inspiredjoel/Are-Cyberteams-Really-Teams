@@ -5,7 +5,7 @@ A systematic review examining whether cyber teams function like traditional team
 
 This repository contains supplementary materials associated with the manuscript:
 
-Appiah, J., [Coauthor], & Bou Abdo, J. (2026).
+Appiah, J., Kpieleh, F. & Bou Abdo, J. (2026).
 "Are Cyberteams Really Teams? ..."
 
 ## Contents
